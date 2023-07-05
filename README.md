@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Widget notification
 
-## Getting Started
+## Descrição
 
-First, run the development server:
+Projeto desenvolvido para estudo e aplicação de um efeito ambilight seguindo o tutorial apresentado pelo Mayk Brito da **[Rocketseat](https://www.youtube.com/@rocketseat)**, com a implementação de tecnologias que vão além das abordadas no vídeo **[Interações em VR com JS + Figma DEV MODE (novidade!) #boraCodar](https://www.youtube.com/watch?v=KT1PDX31qo8&t=5s&ab_channel=Rocketseat)**.
 
-```bash
+![alt text](https://raw.githubusercontent.com/brenersrosa/player-vr/main/public/images/screenshot.png)
+
+## Requisitos
+
+Antes de iniciar a instalação e configuração do projeto, verifique se o seu sistema atende aos seguintes requisitos:
+
+- Node.js (versão 18.16.0 ou superior)
+- NPM (Node Package Manager) ou Yarn
+
+## Instalação
+
+Siga os passos abaixo para instalar e configurar o projeto em sua máquina local:
+
+1. **Clone o repositório**:
+
+   ```shell
+   git clone https://github.com/brenersrosa/widget-notification.git
+   ```
+
+2. **Acesse o diretório do projeto**:
+
+   ```shell
+   cd widget-notification
+   ```
+
+3. **Instale as dependências**:
+
+   ```shell
+   npm install
+   ```
+
+   ou, se estiver usando Yarn:
+
+   ```shell
+   yarn install
+   ```
+
+## Execução da aplicação
+
+Após a instalação e configuração do projeto, você pode executá-lo usando o seguinte comando:
+
+```shell
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ou, se estiver usando Yarn:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```shell
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Isso iniciará o servidor e o projeto estará acessível no seu navegador no endereço `http://localhost:3000`.
 
-## Learn More
+## Licença
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este projeto está licenciado sob a **[MIT License](https://opensource.org/license/mit/).**
