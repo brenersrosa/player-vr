@@ -28,7 +28,7 @@ Siga os passos abaixo para instalar e configurar o projeto em sua máquina local
 2. **Acesse o diretório do projeto**:
 
    ```shell
-   cd widget-notification
+   cd player-vr
    ```
 
 3. **Instale as dependências**:
