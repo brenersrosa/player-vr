@@ -20,7 +20,7 @@ Siga os passos abaixo para instalar e configurar o projeto em sua máquina local
 1. **Clone o repositório**:
 
    ```shell
-   git clone https://github.com/brenersrosa/widget-notification.git
+   git clone https://github.com/brenersrosa/player-vr.git
    ```
 
 2. **Acesse o diretório do projeto**:
