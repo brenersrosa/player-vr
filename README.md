@@ -6,6 +6,8 @@ Projeto desenvolvido para estudo e aplicação de um efeito ambilight seguindo o
 
 ![alt text](https://raw.githubusercontent.com/brenersrosa/player-vr/main/public/images/screenshot.png)
 
+![alt text](https://raw.githubusercontent.com/brenersrosa/player-vr/main/public/images/screen.gif)
+
 ## Requisitos
 
 Antes de iniciar a instalação e configuração do projeto, verifique se o seu sistema atende aos seguintes requisitos:
